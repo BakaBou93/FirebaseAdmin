@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="firebase-admin-9.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/firebase-admin-9.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-jwt-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
