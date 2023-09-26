@@ -1,0 +1,4 @@
+https://www.ibm.com/docs/en/runbook-automation?topic=certificate-generate-root-ca-key
+
+hosts
+127.0.0.1   smartapp.test
